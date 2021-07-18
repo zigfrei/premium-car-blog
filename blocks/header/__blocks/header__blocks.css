@@ -1,7 +1,8 @@
 .header__blocks{
   margin: 0 auto;
-  max-width: 1170px;
+  width: 1170px;
   display: flex;
-  justify-content: space-between;
   border: 1px solid rgb(255, 0, 0);
+  justify-content: space-between;
+
 }

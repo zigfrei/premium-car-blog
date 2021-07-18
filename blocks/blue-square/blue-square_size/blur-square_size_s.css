@@ -1,4 +1,11 @@
 .blur-square_size_s{
-  width: 29px;
-  height: 17px;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  width: 39px;
+  height: 23px;
+  border-radius: 3px;
+  justify-content: center;
+  align-items: center;
+
 }
